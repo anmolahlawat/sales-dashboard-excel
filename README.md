@@ -86,7 +86,7 @@ Fields include:
 
 ## 📁 Project Structure
 
-├── Excel_Project.xlsx
+├── Sales_performance_dashboard.xlsx
 ├── README.md
 
 ---
