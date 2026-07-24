@@ -53,15 +53,6 @@ The raw dataset was cleaned, transformed, analyzed, and visualized into an inter
 
 ---
 
-## 📷 Dashboard Preview
-
-Add screenshots here.
-
-Example:
-
-Dashboard.png
-
----
 
 ## 📂 Dataset
 
@@ -96,7 +87,6 @@ Fields include:
 ## 📁 Project Structure
 
 ├── Excel_Project.xlsx
-├── Dashboard.png
 ├── README.md
 
 ---
